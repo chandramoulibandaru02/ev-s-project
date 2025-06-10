@@ -1,0 +1,75 @@
+Model,Price,Range,Charging_time,Top_speed,Motor_type,Battery_type,Battery_capacity,Wheels_type,Tyre_type
+Ola S1,100000,128,,95,Mid Drive IPM,,3 kWh,Aluminium Alloy,Tubeless
+TVS iQube Electric,160000,100,2 Hour 50 Min - 80%,78,BLDC,Lithium Ion,3.04 kwh,Alloy,Tubeless
+Ather 450X,98000,146,5 hours 40 minutes,90,PMSM,Lithium-ion,3.7 kWh,Alloy,Tubeless
+Bajaj Chetak,122000,90,4 Hours,63,BLDC,Lithium Ion,3.04,Alloy,Tubeless
+Ola S1 Pro,124000,181,,116,Mid Drive IPM,,4 kWh,Aluminium Alloy,Tubeless
+Simple One,109000,300,,105,PMAC,Lithium Ion,4.8 kWh ,Alloy,Tubeless
+Vida V1,128000,165,65 minutes ( 0-80 ),80,PMSM,,3.94 kWh,Alloy,Tubeless
+Hero Electric Optima,67000,140,,45,BLDC,,1.54,Alloy,
+Ampere Magnus EX,84000,121,,50,BLDC,Lithium Ion,2.3,Alloy,
+Bounce Infinity E1,64000,85,,65,BLDC,Lithium Ion,1.9 KWh,Alloy,Tubeless
+Okinawa PraisePro,100000,88,,58,BLDC,Lithium Ion,2.0 kWh,Alloy,Tubeless
+Kinetic Green Zoom,75000,100,,40,BLDC,Lithium Ion,1.68,ALLOY,Tubeless
+Ampere Primus,109000,107,,77,PMSM,LFP,3 Kwh,Alloy,Tubeless
+Kinetic Green Zing,72000,100,,45,BLDC,Lithium Ion,1.68,ALLOY,Tubeless
+River Indie,125000,120,,90,Mid-Drive PMSM,Lithium-Ion,4 kWh,Alloy Wheels,
+Okinawa R30,62000,60,,25,BLDC,Lithium-Ion,1.25 KWH,Alloy,Tubeless
+Okinawa iPraise+,145000,139,,58,BLDC,Lithium Ion,3.3 KWH,Alloy,Tubeless
+Hero Electric NYX,74000,100,,42,BLDC,Lithium-Ion,2.69,Alloy,Tube
+AMO Electric Jaunty-3W,63000,75,6 Hours,25,Brushless DC,VRLA,1.56,Alloy,Tubeless
+Ujaas eZy,32000,60,,,BLDC,Lead Acid,1.25,Alloy,Tubeless
+Ozotec Flio,113000,,,,BLDC,,,Alloy,Tubeless
+Gravton Quanta,99000,,,70,BLDC,Lithium Ion, 2.5 kWh,Alloy,Tubeless
+Hero Electric Photon,86000,60,,45,BLDC,Li-ion,1.44,Steel,Tube
+Avon E Plus,25000,50,,24,BLDC,VRLA,0.58,Alloy,Tube
+Komaki XGT KM,43000,150,,,BLDC,Lithium-Ion,,,Tubeless
+Avon E Lite,28000,50,,24,BLDC,VRLA,0.576,Alloy,Tube
+Lohia Oma Star,41000,60,,25,BLDC,VRLA,0.96,Alloy,Tube
+Avon E Scoot,45000,65,,24,BLDC,VRLA,0.96,Alloy,Tubeless
+Kinetic Green Flex,118000,120,3 Hours,72,BLDC,Lithium-Ion,3.1 Kwh,Alloy,Tubeless
+Avon E Star,60000,65,,50,BLDC,Lead Acid,1.58,Alloy,Tube
+Avon E Mate,45000,65,,18,BLDC,VRLA,0.96,Alloy,Tube
+Lohia Oma Star Li,52000,60,,25,BLDC,Lithium Ion,0.2,Alloy,Tubeless
+Okinawa Ridge,70000,84,,45,BLDC,Lithium Ion,1.75 KWH,Alloy,Tubeless
+BattRE Electric LoEV,69000,60,,,BLDC,Lithium Ferro Phosphate,3.1 kWh,Iron Rims,Tubeless
+Joy e-bike Gen Next Nanu,77000,90,,46,Brushless DC,Lithium Ion,1.86,Alloy,Tubeless
+Joy e-bike Wolf,80000,90,,46,Brushless DC,Lithium Ion,1.86,Alloy,Tubeless
+Joy e-bike Glob,77000,60,,25,Brushless DC,Lithium-Ion,1.38,Alloy,Tubeless
+Tunwal Sports 63 Alpha 48V,55000,70,,,BLDC,Lithium Ion,1.25,Alloy,Tubeless
+Tunwal Sport 63 Mini,50000,70,,,BLDC,Lithium Ion,1.25,Alloy,Tubeless
+Tunwal Sport 63 Mid,72000,110,,,BLDC,Lithium Ion,1.56,Alloy,Tubeless
+Tunwal Mini Lithino,55000,70,,,BLDC,Lithium Ion,1.25,Alloy,Tubeless
+Tunwal Lithino 2.0,72000,85,,,BLDC,Lithium Ion,1.56,Alloy,Tubeless
+Tunwal Elektrika 60,65000,120,,,BLDC,Lithium Ion,1.56,Alloy,Tubeless
+BattRE Electric IOT,81000,85,,110,BLDC,Lithium Ion,1.44,Alloy,Tubeless
+Ujaas eGo Li,51000,75,,,BLDC,Lithium Ion,1.56,Alloy,Tubeless
+Kabira Mobility Intercity Neo,57000,110,,24,BLDC,Lithium Ion,2.1,Alloy,Tubeless
+Kabira Mobility Kollegio Plus,48000,110,,24,BLDC,Lithium Ion,2.1,Alloy,Tubeless
+Kabira Mobility Aetos 100,55000,110,,24,BLDC,Lithium Ion,2.1,Alloy,Tubeless
+Revolt RV400,124000,150,4.5 Hours,85,Mid Drive,Lithium-Ion,3.24 KWh,Alloy,Tubeless
+Ultraviolette F77,380000,307,5 Hours,152,Permanent Magnet AC Motor,Lithium-ion,10.3 kWh,,
+Tork Kratos,122000,180,,105,PMAC,,4 kWh,Alloy,Tubeless
+Oben Rorr,102000,200,,100,IPMSM Motor,,4.4 kwh,Alloy,Tubeless
+Odysse Electric Evoqis,171000,,,80,BLDC,Lithium-Ion,4.32 kWh,Alloy,Tubeless
+Matter Aera,143000,125,2 Hours,,BLDC,,5 kWh,Alloy,
+One Electric Motorcycles Kridn,135000,110,,95,PMAC,Lithium Ion,3 kWh,Alloy,
+Komaki Ranger,185000,200,,,BLDC,Lithium Ion,3.6,Alloy,Tubeless
+Power EV P-Sport,145000,210,,85,Hub Motor,Lithium Ion,4.32 kwh,Alloy,Tubeless
+Odysse Electric VADER,109000,,,85,Hub Motor,Lithium-ion,3.7 Kwh,,
+Kabira Mobility KM 4000,136000,150,0-80 % 50 min,120,BLDC,Lithium ion,4.4 kWh,Alloy,Tubeless
+Joy e-bike Monster,110000,75,,25,DC Brushless,Lithium-Ion (Fixed Type),1.656,Alloy,Tubeless
+Kabira Mobility KM 3000,122000,120,0-80 % 50 min,100,BLDC,Lithium Ion,4.0 kWh,Alloy,Tubeless
+Earth Energy EV Evolve Z,130000,100,,95,PMAC,Lithium Ion,96,Alloy,
+Earth Energy EV Evolve R,142000,100,40 Minutes,110,PMAC,Lithium Ion,115,,
+Atumobile Atum Version 1.0,75000,100,,25,DC Brushless,Lithium Ion,1.248 kWh,Spoke,
+Komaki MX3,95000,100,,,BLDC,Lithium Ion,,Alloy,Tubeless
+Joy e-bike Beast,242000,110,,90,DC Brushless,Lithium Ion (Fixed Type),5.184,Alloy,Tubeless
+Joy e-bike Thunderbolt,233000,110,,90,DC Brushless Hub Motor,Lithium Ion (Fixed Type),5.184,Alloy,Tubeless
+Joy e-bike Hurricane,233000,80,,90,DC Brushless,Lithium Ion (Fixed Type),4.752,Alloy,Tubeless
+Cyborg Yoda,184000,150,,90,BLDC,BMS Battery,3.24 kWh,Alloy,Tube
+Cyborg Bob-e,95000,110,,85,BLDC,BMS Battery,2.88 kWH,Alloy,Tubeless
+Hop Oxo,164000,150,5 Hours,95,BLDC Hub motor,Lithium-ion,3.75 Kwh,Alloy,Tubeless
+Komaki XGT Classic,111000,105,,,BLDC,Lithium Ion,,Alloy,
+PURE EV eTryst 350,149000,140,,85,BLDC,Lithium Ion,3.5 kwh,Alloy,Tubeless
+Atumobile AtumVader,100000,100,,65,BLDC,Lithium Ion,2.3 kwh,Spoke,Tube
